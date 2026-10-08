@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "1.0-test.4",
-  "apk_url": "https://github.com/pat16071975-ship-it/md-mobile-updates/releases/download/md-mobile-test-v4/MD-Mobile-Test-manager-v4.apk",
-  "sha256": "a99cf1c9b63d3eccafd52ee24662749c55b8fd60ce0c1668723799685ade7539",
-  "message": "Доступно Test-обновление MD 1.0-test.4"
+  "version_code": 5,
+  "version_name": "1.0-test.5",
+  "apk_url": "https://github.com/pat16071975-ship-it/md-mobile-updates/releases/download/md-mobile-test-v5/MD-Mobile-Test-manager-v5.apk",
+  "sha256": "d85286577b95ff93f399eb55227f3e99a8922718ad2bd1be5c7f0faaf1bd3986",
+  "message": "Доступно Test-обновление MD 1.0-test.5"
 }
