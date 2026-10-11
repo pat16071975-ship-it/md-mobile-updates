@@ -1,7 +1,7 @@
 {
-  "version_code": 18,
-  "version_name": "1.0-test.18",
-  "apk_url": "https://github.com/pat16071975-ship-it/md-mobile-updates/releases/download/md-mobile-test-v18/MD-Mobile-Test-employee-v18.apk",
-  "sha256": "f2c9dcfcb02bff167e3a74df28df62a8ebe28ab2f4b57da9c302ca538375976a",
-  "message": "Доступно Test-обновление MD 1.0-test.18"
+  "version_code": 19,
+  "version_name": "1.0-test.19",
+  "apk_url": "https://github.com/pat16071975-ship-it/md-mobile-updates/releases/download/md-mobile-test-v19/MD-Mobile-Test-employee-v19.apk",
+  "sha256": "e6f4a27d16f7100f12169312ef7fc52ca354a6f1ead29ecca6942896ee859f0b",
+  "message": "Доступно Test-обновление MD 1.0-test.19"
 }
